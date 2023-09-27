@@ -18,7 +18,7 @@ role: Phd
 
 # Organizations/Affiliations
 organizations:
-  - name: Shandong University
+  - name: Sichuan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
